@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=inochi-creator
+Exec=inochi-creator %F
+Icon=logo_256
+Type=Application
+Categories=Utility
+MimeType=application/x-inx;

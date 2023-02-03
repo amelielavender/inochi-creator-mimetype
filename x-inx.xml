@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+    <mime-type type="application/x-inx">
+        <comment>inochi2d file</comment>
+        <icon name="application-x-inx"/>
+        <glob pattern="*.inx"/>
+    </mime-type>
+</mime-info>
