@@ -8,8 +8,18 @@ put thing in the new place
 
 then `update-mime-database ~/.local/share/mime`
 
+verify newly installed mimetype:
+
+```bash
+xdg-query filetype path/to/file.inx
+# result should be 'application/x-inx'
+# NOT 'application/octet-stream'
+```
+
 put other thing in the other new place
 
 `inochi-creator.desktop` -> `~/.local/share/applications`
 
 then `update-desktop-database ~/.local/share/applications`
+
+enjoy opening .inx files from your browser or file manager
